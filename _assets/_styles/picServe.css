@@ -1,0 +1,68 @@
+body {
+
+	background-color: #494E54;
+	padding-left: 5%;
+	padding-right: 5%;
+	color: #ADB39B;
+
+}
+
+#title {
+
+	color: #FF3B2F;
+	font-family: 'Indie Flower', cursive;
+	margin-top: 4%;
+	font-size: 22px;
+
+}
+
+h1 {
+	text-align: center;
+}
+
+#formCenter {
+
+	width: 95%;
+	margin-right: auto;
+	margin-left: auto;
+	border: 1px outset #C7FF00;
+	padding-left: 5%;
+	padding-top: 5%;
+   vertical-align: text-top;
+}
+
+
+#submit 
+{
+
+	background-color: #ADB39B;
+	color: #0069FF;
+	width: 110px;
+
+
+}
+
+#addBtn {
+
+   background-color: #ADB39B;
+	color: #0069FF;
+	font-size: 12px;
+	width: 40px;
+
+}
+
+.spacer 
+{
+
+color: #ADB39B;
+
+}
+
+
+#moreLink {
+
+    background-color: #ADB39B;
+	color: #0069FF;
+	width: 148px;
+
+}
